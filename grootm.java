@@ -1,5 +1,5 @@
 class grootm{
 public static void main(String args[]){
-System.out.println("pukulamodda")
+System.out.println("pukulamodda");
 }
 }
